@@ -1,0 +1,7 @@
+C:\Users\almet\source\repos\KVM_Task_03\KVM_Task_03\bin\Release\KVM_Task_03.exe.config
+C:\Users\almet\source\repos\KVM_Task_03\KVM_Task_03\bin\Release\KVM_Task_03.exe
+C:\Users\almet\source\repos\KVM_Task_03\KVM_Task_03\bin\Release\KVM_Task_03.pdb
+C:\Users\almet\source\repos\KVM_Task_03\KVM_Task_03\obj\Release\KVM_Task_03.csprojAssemblyReference.cache
+C:\Users\almet\source\repos\KVM_Task_03\KVM_Task_03\obj\Release\KVM_Task_03.csproj.CoreCompileInputs.cache
+C:\Users\almet\source\repos\KVM_Task_03\KVM_Task_03\obj\Release\KVM_Task_03.exe
+C:\Users\almet\source\repos\KVM_Task_03\KVM_Task_03\obj\Release\KVM_Task_03.pdb
