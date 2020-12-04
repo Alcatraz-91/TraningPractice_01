@@ -1,0 +1,7 @@
+C:\Users\almet\source\repos\KVM_Task_05\KVM_Task_05\bin\Debug\KVM_Task_05.exe.config
+C:\Users\almet\source\repos\KVM_Task_05\KVM_Task_05\bin\Debug\KVM_Task_05.exe
+C:\Users\almet\source\repos\KVM_Task_05\KVM_Task_05\bin\Debug\KVM_Task_05.pdb
+C:\Users\almet\source\repos\KVM_Task_05\KVM_Task_05\obj\Debug\KVM_Task_05.csprojAssemblyReference.cache
+C:\Users\almet\source\repos\KVM_Task_05\KVM_Task_05\obj\Debug\KVM_Task_05.csproj.CoreCompileInputs.cache
+C:\Users\almet\source\repos\KVM_Task_05\KVM_Task_05\obj\Debug\KVM_Task_05.exe
+C:\Users\almet\source\repos\KVM_Task_05\KVM_Task_05\obj\Debug\KVM_Task_05.pdb
